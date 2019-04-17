@@ -1,11 +1,11 @@
 
-http://gchauras.github.io/much-worse-jekyll-theme/blog/
-http://gchauras.github.io/much-worse-jekyll-theme/cv/
-http://gchauras.github.io/much-worse-jekyll-theme/feed.xml
-http://gchauras.github.io/much-worse-jekyll-theme/
-http://gchauras.github.io/much-worse-jekyll-theme/css/main.css
-http://gchauras.github.io/much-worse-jekyll-theme/misc/
-http://gchauras.github.io/much-worse-jekyll-theme/research/
-http://gchauras.github.io/much-worse-jekyll-theme/sitemap.txt
+/blog/
+/cv/
+/feed.xml
+/
+/css/main.css
+/misc/
+/research/
+/sitemap.txt
 
-http://gchauras.github.io/much-worse-jekyll-theme/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
+/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
