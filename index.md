@@ -9,11 +9,11 @@ permalink: /
 [GAMMA-UMD](http://gamma.web.unc.edu/) has openings for summer interns.
 
 ## Introduction
-Sequence Prediction is a very different task than the classical machine learning prediction task (such as predicting the weather from past years' data). Consider a narrative (movie or novel) where a very important event occurred in the beginning, but did not occur again until much later in the sequence. This is very similar to prologues in films and stories where the events in the prologue are explained much later in the narrative. The equivalent of such an event in a time-series data such as weather forecast is typically termed as an outlier and thus, ignored. Our project is on sequence prediction in terms of predicting the future trajectories (or sequences) of vehicles. 
+Sequence Prediction in a machine learning context is the task of teaching a machine or computer to predict the next states of the sequence given the first few instances of the sequence. This problem arises in several interesting and often important applications. A few classical applications are text-based applications (hand writing generation) and vision-based applications (image generation). Our project explores sequence prediction in the context of autonomous vehicles where we predict the future trajectories of vehicles. Here, we consider the trajectory of the vehicle as a sequence.
 
-## Project Description
+## Project Goals	
 <!-- In this modern *Deep Learning* age, several new approaches to trajectory prediction have emerged. However, despite the recent explosion of work in this area, surprisingly little has been done to build efficient, practical implementations of these new methods, and benchmark them against one another. -->
-In this project, you will learn about deep learning and how to use deep learning tools such as PyTorch and Tensorflow for sequence prediction and apply the learned concepts to predicting vehicle trajectories. The aim of the project is to create a new trajectory prediction software. You will implement the latest methods in Python 	and benchmark them against one another using real traffic video data. 
+In this project, you will learn about deep learning and how to use deep learning tools such as PyTorch and Tensorflow for sequence prediction and apply the learned concepts to predicting vehicle trajectories. **The aim of the project is to create a new trajectory prediction software**. You will implement the latest trajectory prediction methods in Python	and benchmark them against one another using real traffic video data. 
 
 ## Prerequisites
 Students need to have good programming skills in Python. Knowledge of deep learning or machine learning is NOT required, but is beneficial.
