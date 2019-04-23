@@ -16,10 +16,14 @@ Sequence Prediction in a machine learning context is the task of teaching a mach
 In this project, you will learn about deep learning and how to use deep learning tools such as PyTorch and Tensorflow for sequence prediction and apply the learned concepts to predicting vehicle trajectories. **The aim of the project is to create a new trajectory prediction software**. You will implement the latest trajectory prediction methods in Python	and benchmark them against one another using real traffic video data. 
 
 ## Prerequisites
-Students need to have good programming skills in Python. Knowledge of deep learning or machine learning is NOT required, but is beneficial.
+1. Proficiency in Python.  
+
+2. Some experience in deep lerning frameworks such as PyTorch or Tensorflow (Even if you've just played around with small programs involving these tools, that's fine.)
+
+3. Willingness to learn and read. In order to implement algorithms, you might need to sometimes read the original paper to see how the authors have designed the algorithm. 
 
 ## How you might benefit from this internship
-From a job perspective, machine learning and deep learning are one of the most highly valued skills in the tech industry. Practical experience in this area would set you apart from the crowd. 
+From a job perspective, implementing machine learning and deep learning algorithms are one of the most highly valued skills in the tech industry. Practical experience in this area would set you apart from the crowd. 
 
 From a grad school perspective, your work would be published in a good conference with you as an author. This would look good on graduate school applications. You may additionally get a letter of recommendation from the faculty member of GAMMA-UMD.
 
