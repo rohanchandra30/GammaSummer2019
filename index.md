@@ -1,7 +1,6 @@
 ---
 layout: page
 <!-- title: Using Deep Learning To Predict Future Trajectories Of Vehicles! -->
-title:
 permalink: /
 ---
 
@@ -20,7 +19,7 @@ In this project, you will learn about deep learning and how to use deep learning
 ### Prerequisites
 1. Proficiency in Python.  
 
-2. Some experience in deep lerning frameworks such as PyTorch or Tensorflow (Even if you've just played around with small programs involving these tools, that's fine.)
+2. Some experience in deep learning frameworks such as PyTorch or Tensorflow (Even if you've just played around with small programs involving these tools, that's fine.)
 
 3. Willingness to learn and read. In order to implement algorithms, you might need to sometimes read the original paper to see how the authors have designed the algorithm. 
 
@@ -49,14 +48,14 @@ Email: rohan@cs.umd.edu
 ### Introduction
 Humans are socially-aware agents and know how to interact with others by subconsciously judging their mood, behavior and emotional state. Though made of hard nuts and bolts and lacking the five senses unlike humans, it is imperative that robots have to be made socially-aware for their co-existence with humans in day-to-day activities. Hence, one of the active research directions of Gamma-UMD is in Behavior Modeling and Affective Computing. 
 
-This project aims to develop AI that can predict perceived emotions of humans from various verbal and non-verbal cues. To begin with, we are interested in finding correlation between three such modalities, face, speech and gait and then come up with an informed prediction..
+This project aims to develop AI that can predict perceived emotions of humans from various verbal and non-verbal cues. To begin with, we are interested in finding correlation between three such modalities, face, speech and gait and then come up with an informed prediction.
 
 ### Project Goals	
 1. Implement various graphical UX and data collection interfaces. 
 
 2. You will also be expected to help in our data collection process, where the primary task is to annotate real world videos containing people's face, speech, and gait with emotion labels as you perceive them.
 
-3. Lastly, you will be encouraged to participate in, and help the project leaders with, various research tasks such as implementation of ideas, evaluation and analysis of results, and reporting of findings. This could inlclude literature survey of relevant papers.
+3. Lastly, you will be encouraged to participate in, and help the project leaders with, various research tasks such as implementation of ideas, evaluation and analysis of results, and reporting of findings. This could include literature survey of relevant papers.
 
 ### Prerequisites
 1. Proficiency in coding.
