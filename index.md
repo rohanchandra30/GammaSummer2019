@@ -48,19 +48,17 @@ Email: rohan@cs.umd.edu
 ### Introduction
 Humans are socially-aware agents and know how to interact with others by subconsciously judging their mood, behavior and emotional state. Though made of hard nuts and bolts and lacking the five senses unlike humans, it is imperative that robots have to be made socially-aware for their co-existence with humans in day-to-day activities. Hence, one of the active research directions of Gamma-UMD is in Behavior Modeling and Affective Computing. 
 
-This project aims to develop AI that can predict perceived emotions of humans from various verbal and non-verbal cues. To begin with, we are interested in finding correlation between three such modalities, face, speech and gait and then come up with an informed prediction.
+This project aims to develop AI that can predict perceived emotions of humans from various verbal and non-verbal cues. To begin with, we are interested in finding correlation between three such modalities, face, speech and gait and then come up with an informed prediction. To this end, with all appropriate permissions from the required authorities, we plan to carry out a huge data collection drive.
 
 ### Project Goals	
-1. Implement various graphical UX and data collection interfaces. 
+1. You will be helping with the data collection process actively. You will completely be responsible for designing a web-based engine for enabling easy annotation of the collected data. 
 
-2. You will also be expected to help in our data collection process, where the primary task is to annotate real world videos containing people's face, speech, and gait with emotion labels as you perceive them.
-
-3. Lastly, you will be encouraged to participate in, and help the project leaders with, various research tasks such as implementation of ideas, evaluation and analysis of results, and reporting of findings. This could include literature survey of relevant papers.
+2. You will be encouraged to participate in, and help the project leaders with, various research tasks such as implementation of ideas, evaluation and analysis of results, and reporting of findings. This could include literature survey of relevant papers.
 
 ### Prerequisites
-1. Proficiency in coding.
+1. Proficiency in creating web-interfaces which links to a database of videos on the local server and also stores results of the annotation back on the local server. 
 
-2. Experience in GUI designing.
+2. Willingness to learn and read. In order to implement algorithms, you might need to sometimes read the original paper to see how the authors have designed the algorithm.
 
 <!-- ### How you might benefit from this internship -->
 <!-- From a job perspective, implementing machine learning and deep learning algorithms are one of the most highly valued skills in the tech industry. Practical experience in this area would set you apart from the crowd.  -->
