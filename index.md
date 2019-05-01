@@ -60,9 +60,10 @@ This project aims to develop AI that can predict perceived emotions of humans fr
 
 2. Willingness to learn and read. In order to implement algorithms, you might need to sometimes read the original paper to see how the authors have designed the algorithm.
 
-<!-- ### How you might benefit from this internship -->
-<!-- From a job perspective, implementing machine learning and deep learning algorithms are one of the most highly valued skills in the tech industry. Practical experience in this area would set you apart from the crowd.  -->
-
+### How you might benefit from this internship
+<!-- From a job perspective, implementing machine learning and deep learning algorithms are one of the most highly valued skills in the tech industry. Practical experience in this area would set you apart from the crowd. 
+ -->
+The planned dataset is claimed by us to be the first ever released. Collecting, annotating and releasing such a dataset is a huge contribution for the research community. The work will be published in a top-tier AI/Robotics conference with you as one of the authors.
 <!-- From a grad school perspective, your work would be published in a good conference with you as an author. This would look good on graduate school applications. You may additionally get a letter of recommendation from the faculty member of GAMMA-UMD. -->
 
 ### How To Apply
